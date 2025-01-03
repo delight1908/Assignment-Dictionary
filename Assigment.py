@@ -1,5 +1,5 @@
 from tkinter import Tk, Entry, Button, Label, StringVar
-
+## updated
 window = Tk()
 window.geometry("600x250")
 window.title("Efik Dictionary")
